@@ -1,3 +1,5 @@
+![file](https://github.com/GalaxyHunters/Evolution-Machine-Satellite-Galaxies/blob/f7b13146efd3e686a8f47c993f1b5f6a032c797d/Alpha%20Senior%20Thesis%20-%20Adam.pdf)
+
 ![image](https://github.com/GalaxyHunters/Evolution-Machine-Satellite-Galaxies/blob/8d85df8d37b62483929317eaa59b26238e37760d/cover.png)
 
 ## Abstract
