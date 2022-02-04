@@ -1,4 +1,4 @@
-![image](https://github.com/GalaxyHunters/Evolution-Machine-Satellite-Galaxies/blob/5a43e6f82feb3232dabcaff961ffc778afef796c/cover.jpg?raw=true)
+![image](https://github.com/GalaxyHunters/Evolution-Machine-Satellite-Galaxies/blob/8d85df8d37b62483929317eaa59b26238e37760d/cover.png)
 
 ## Abstract
 The cessation of star formation (quenching) in galaxies is an essential stage in the evolution of a galaxy. Satellite galaxies (SGs) are galaxies in orbit around a central galaxy (CG), larger in size by several orders of magnitude. The properties and interactions of SGs with their environment make them an important topic for learning, both in terms of our understanding of the galaxy’s structure and understanding the environment.
